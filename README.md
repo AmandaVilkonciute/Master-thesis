@@ -17,8 +17,14 @@ Files:
 - `DarboUzmokestis2018.csv`
 - `DarboUzmokestis2022.csv`
 
+Data source:
+- https://data.gov.lt/datasets/1620/
+
 An additional file is used for occupation grouping:
-- `Summary-of-Groups.csv` 
+- `Summary-of-Groups.csv`
+  
+Data source:
+- https://www.profesijuklasifikatorius.lt/summary-minor-groups
 
 ---
 
